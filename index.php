@@ -9,7 +9,7 @@
 // 3.1.2 - verify strip_tags and trim on $_GET and $_POST
 //
 //
-//
+// prubas
 
 $server_dir = "../";
 
